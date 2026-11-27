@@ -6,6 +6,18 @@ Projeto de portfólio, feito como MVP para apresentar a ideia da LUPI a atlétic
 
 **Demo:** https://lupi-store.vercel.app
 
+## Telas
+
+![Home](docs/home.jpg)
+
+![Pré-venda com contagem regressiva](docs/pre-venda.jpg)
+
+![Página de produto](docs/produto.jpg)
+
+![Dashboard do painel admin](docs/dashboard.jpg)
+
+![Versão para celular](docs/celular.jpg)
+
 ## O que o sistema faz
 
 **Loja (não exige login para comprar)**
